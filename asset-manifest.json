@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Todo-List/static/css/main.5a9ee5dc.css",
+    "main.js": "/Todo-List/static/js/main.591c573a.js",
+    "static/media/shopping-bag.png": "/Todo-List/static/media/shopping-bag.963ea577c764eab0682b.png",
+    "static/media/add.png": "/Todo-List/static/media/add.90b950d171bb0b3986d1.png",
+    "static/media/sun.png": "/Todo-List/static/media/sun.db5d1038608fc18cafc1.png",
+    "static/media/task.png": "/Todo-List/static/media/task.ab4c39d2e156f466dd92.png",
+    "static/media/to-do-list.png": "/Todo-List/static/media/to-do-list.825a37a3b9fe330afdc5.png",
+    "static/media/bussiness-man.png": "/Todo-List/static/media/bussiness-man.6bd4263915f540cc26aa.png",
+    "static/media/delivery-box.png": "/Todo-List/static/media/delivery-box.bd6429370d9e8befe70b.png",
+    "static/media/suitcase.png": "/Todo-List/static/media/suitcase.ca49136a6ed358896de9.png",
+    "static/media/turn-off.png": "/Todo-List/static/media/turn-off.06cd8f8a8bfc7f79f06f.png",
+    "static/media/organizer.png": "/Todo-List/static/media/organizer.64251a9640fd77f30599.png",
+    "index.html": "/Todo-List/index.html",
+    "main.5a9ee5dc.css.map": "/Todo-List/static/css/main.5a9ee5dc.css.map",
+    "main.591c573a.js.map": "/Todo-List/static/js/main.591c573a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a9ee5dc.css",
+    "static/js/main.591c573a.js"
+  ]
+}
