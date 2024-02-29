@@ -70,7 +70,7 @@ const SignUp = () => {
                             </div>
                              <br />
                              <div class="form-group">
-                                <label for="exampleInputEmail1">Email</label>
+                                <label for="exampleInputEmail1">Email ID</label>
                                 <input type="email" onChange={(r)=> setEmail(r.target.value)}  value={email} class="form-control fs-5" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="email"/>
                              </div>
                              <br />
